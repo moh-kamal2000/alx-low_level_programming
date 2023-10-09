@@ -19,9 +19,10 @@ int main(void)
 	digit = n % 10;
 
 	if (digit > 5)
-		printf("");
+		printf("%i is grater than 5\n", n);
 	else if (digit == 0)
-		printf("");
+		printf("%i is equal \n", n);
 	else if (digit < 6 && digit != 0)
+		printf("%i less than 6 && did not equal 0\n", n);
 	return (0);
 }
