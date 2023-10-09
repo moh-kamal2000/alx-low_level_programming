@@ -7,7 +7,7 @@
  *
  * docomintation : positive or negative value
  *
- * return 0 (success)
+ * returni:0(success)
  */
 
 int main(void)
