@@ -3,16 +3,14 @@
 /**
  *main -enrty point 
  *
- *descriptiont : 
- 
-Return : 0(success)
+ *description : print alphabit lowercase and uppercase
+ *Return :always  0(success)
 */
 
 int main(void)
 {
 	char ch = 'a';
 	char CH = 'A';
-
 
 	while (ch <= 'z')
 	{
@@ -25,5 +23,6 @@ int main(void)
 		CH++;
 	}
 	putchar('\n');
+
 	return 0;
 }
