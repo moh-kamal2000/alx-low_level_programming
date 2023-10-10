@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * main -entry point 
+ *
+ * description: 
+ *
+ * return : 0(success)*/
 int main(void)
 {
 	char ch = 'a';
@@ -10,5 +16,5 @@ int main(void)
 	}
 	putchar('\n');
 
-return 0;
+	return 0;
 }
