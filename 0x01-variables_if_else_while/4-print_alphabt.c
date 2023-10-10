@@ -3,7 +3,7 @@
 /**
  * main - entry point 
  *
- * description :
+ * description  :print ahphabit without e or q
  *
  *Return = always 0 (success)
 */
